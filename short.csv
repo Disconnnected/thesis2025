@@ -1,0 +1,46 @@
+English Term,Vietnamese Translation
+SARVAM,Search And RetrieVAI of Malware - Tìm Kiếm Và Truy Xuất Mã Độc
+GANs,Generative Adversarial Networks - Mạng Đối Kháng Tạo Sinh
+FGSM,Fast Gradient Sign Method - Phương Pháp Dấu Gradient Nhanh
+MalGAN,MalGAN - Mạng Tạo Mã Độc Đối Kháng
+Gym-malware,Gym-malware - Môi Trường Mô Phỏng Mã Độc
+Foolbox,Foolbox - Công Cụ Tạo Mẫu Đối Kháng
+LightGBM,LightGBM - Mô Hình Gradient Boosting
+BODMAS,BODMAS - Bộ Dữ Liệu Mã Độc
+Q-Learning,Q-Learning - Thuật Toán Học Tăng Cường
+DQN,Deep Q-Network - Mạng Q Sâu
+malware,Mã Độc
+machine learning,Học Máy
+adversarial machine learning,Học Máy Đối Kháng
+reinforcement learning,Học Tăng Cường
+deep learning,Học Sâu
+artificial neural networks,Mạng Nơ-ron Nhân Tạo
+goodware,Phần Mềm Hợp Pháp
+black-box attacks,Tấn Công Hộp Đen
+adversarial malware samples,Mẫu Mã Độc Đối Kháng
+agent,Tác Nhân
+Action Space,Không Gian Hành Động
+no-op,Không Hoạt Động
+Reward Function,Hàm Phần Thưởng
+probability,Xác Suất
+norm threshold,Ngưỡng Chuẩn
+Termination Condition,Điều Kiện Kết Thúc
+Gymnasium,Gymnasium - Thư Viện Môi Trường
+NumPy,NumPy - Thư Viện Tính Toán
+Scikit-learn,Scikit-learn - Thư Viện Học Máy
+sparse Q-table,Bảng Q Thưa
+epsilon-greedy,Epsilon-Greedy - Chiến Lược Khám Phá
+MinMaxScaler,MinMaxScaler - Phương Pháp Chuẩn Hóa
+Detector Performance,Hiệu Suất Bộ Phát Hiện
+classification report,Báo Cáo Phân Loại
+Accuracy,Độ Chính Xác
+Precision,Độ Chính Xác (Precision)
+Recall,Độ Nhớ
+F1-Score,F1-Score - Chỉ Số F1
+Benign,Lành Tính
+Malware,Mã Độc
+Macro avg,Trung Bình Macro
+Weighted avg,Trung Bình Có Trọng Số
+gain,Gain - Chỉ Số Tăng
+Evasion Results,Kết Quả Né Tránh
+epsilon,Epsilon - Tham Số Nhiễu
